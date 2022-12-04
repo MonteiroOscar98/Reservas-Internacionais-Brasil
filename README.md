@@ -3,7 +3,9 @@ O objetivo deste projeto é coletar dados das APIs abertas do Banco Central do B
 <br>
 Fonte de dados:
 <br>
-API Banco Central - [SGS - Sistema Gerenciador de Séries Temporais - Banco Central](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries). 
+[Portal Brasileiro de Dados Abertos do Banco Central](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries)
+<br>
+[Sobre o Portal do Banco Central](https://dadosabertos.bcb.gov.br/pages/sobre-o-portal)
 <br>
 <br>
 <b>Modulos utilizados:</b> Numpy, Pandas, Matplotlib, Requests, BeautifulSoup, json.
