@@ -31,18 +31,3 @@ Fonte de dados:
 <b>LinkedIn:</b> [Oscar Monteiro](https://www.linkedin.com/in/oscarmonteiro98/)
 <br>
 <br>
-Resultados :
-<br>
-<br>
-![1](https://github.com/MonteiroOscar98/Reservas-Internacionais-Brasil/blob/main/README_files/1.png)
-<br>
-<br>
-![2](https://github.com/MonteiroOscar98/Reservas-Internacionais-Brasil/blob/main/README_files/2.png)
-<br>
-<br>
-![3](https://github.com/MonteiroOscar98/Reservas-Internacionais-Brasil/blob/main/README_files/3.png)
-<br>
-<br>
-![4](https://github.com/MonteiroOscar98/Reservas-Internacionais-Brasil/blob/main/README_files/4.png)
-<br>
-![5](https://github.com/MonteiroOscar98/Reservas-Internacionais-Brasil/blob/main/README_files/5.png)
