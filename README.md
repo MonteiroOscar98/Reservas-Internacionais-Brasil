@@ -31,7 +31,7 @@ Fonte de dados:
 <b>LinkedIn:</b> [Oscar Monteiro](https://www.linkedin.com/in/oscarmonteiro98/)
 <br>
 <br>
-Resultados :
+Resultados (Dados Desde 1998-09-01):
 <br>
 <br>
 ![1](https://github.com/MonteiroOscar98/Reservas-Internacionais-Brasil/blob/main/README_files/1.png)
